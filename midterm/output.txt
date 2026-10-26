@@ -1,0 +1,50 @@
+Welcome to the FIFO Queue Program!
+
+Enter option: +
+Integer: 9
+[9]
+
+Enter option: +
+Integer: 3
+[9, 3]
+
+Enter option: +
+Integer: -2
+[9, 3, -2]
+
+Enter option: +
+Integer: 10
+Error: Queue Overflow!
+[9, 3, -2]
+
+Enter option: -
+Integer: 5
+5 is not in the queue.
+[9, 3, -2]
+
+Enter option: -
+Integer: 3
+[-2]
+
+Enter option: @
+Invalid option.
+
+Enter option: p
+[-2]
+
+Enter option: -
+Integer: -2
+[]
+
+Enter option: -
+Integer: 0
+Queue Empty.
+[]
+
+Enter option: +
+Integer: 23
+[23]
+
+Enter option: q
+
+Goodbye!
