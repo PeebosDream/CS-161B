@@ -1,0 +1,20 @@
+Software Engineer;6.1;6;42
+Sales Representative;5.9;4;30
+Teacher;6.3;6;40
+Doctor;7.8;7;75
+Doctor;6;6;30
+Nurse;6.4;5;35
+Doctor;7.8;7;75
+Doctor;6;6;30
+Scientist;5.8;4;32
+Teacher;7.2;8;60
+Accountant;7.2;8;60
+Accountant;7.1;8;60
+Lawyer;7.2;8;60
+Lawyer;7.8;8;90
+Salesperson;6.5;6;45
+Teacher;6.6;7;45
+Teacher;6.8;7;30
+Nurse;6;6;90
+Engineer;8.5;9;30
+Nurse;8.2;9;75
